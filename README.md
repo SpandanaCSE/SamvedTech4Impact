@@ -1,5 +1,5 @@
 # Samved_Tech4Impact
-A practical safety and monitoring system for sanitation workers, combining IoT and real-time tracking to reduce risk and improve response in hazardous environments.
+We are a team dedicated to implement practical safety and monitoring system for sanitation workers, combining IoT and real-time tracking to reduce risk and improve response in hazardous environments.
 
 # SAFEHANDS – Sanitation Worker Safety System
 This is a solution built to improve the safety of sanitation workers who operate in high-risk environments like sewers and drainage systems. These workers are often exposed to toxic gases, water overflow, and unsafe working conditions without proper monitoring or quick support.
